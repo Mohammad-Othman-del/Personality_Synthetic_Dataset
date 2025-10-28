@@ -1,4 +1,6 @@
+
 ---
+
 # Personality Prediction Project: Understanding People with Machine Learning
 
 ## 1. Overview
@@ -185,3 +187,4 @@ Developed as part of a project exploring interpretable machine learning and huma
 Feel free to modify, extend, or integrate this code into your own experiments.
 
 ---
+
